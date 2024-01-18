@@ -8,6 +8,12 @@
 
 <img src="https://github.com/JosiTubaroski/Criando_Dags_Complexas/blob/main/img/dags_complexas_grafico.png">
 
+- Resultado da execução
+
+<img src="https://github.com/JosiTubaroski/Criando_Dags_Complexas/blob/main/img/Dags_Compl_Resultado_Execucao.png">
+
+  
+
    
 
    
